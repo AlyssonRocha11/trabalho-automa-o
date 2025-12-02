@@ -1,0 +1,20 @@
+{
+  "name": "trabalho-juliana",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "cypress": "^15.6.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "js": "^0.1.0"
+  }
+}
